@@ -54,6 +54,7 @@
     <instance objName="look_obj" x="0" y="256" name="inst_19B6F7EF" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="arrow_obj" x="32" y="128" name="inst_9CA489B3" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
     <instance objName="detect_obj" x="32" y="544" name="inst_30143F71" locked="0" code="" scaleX="0.25" scaleY="0.25" colour="4294967295" rotation="0"/>
+    <instance objName="network_obj" x="64" y="0" name="inst_D005F5DE" locked="0" code="" scaleX="0.125490203499794" scaleY="0.125490203499794" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -34,6 +34,7 @@
     <sprite>sprites\port_spr</sprite>
     <sprite>sprites\observe_spr</sprite>
     <sprite>sprites\dish_spr</sprite>
+    <sprite>sprites\network_spr</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -42,6 +43,10 @@
     <script>scripts\detect_script.gml</script>
     <script>scripts\focus_script.gml</script>
     <script>scripts\count_script.gml</script>
+    <script>scripts\network_init_script.gml</script>
+    <script>scripts\network_event_script.gml</script>
+    <script>scripts\network_send_script.gml</script>
+    <script>scripts\debug_script.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\splash_font</font>
@@ -56,6 +61,7 @@
     <object>objects\observe_obj</object>
     <object>objects\dish_obj</object>
     <object>objects\upload_obj</object>
+    <object>objects\network_obj</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\splash_time</timeline>
